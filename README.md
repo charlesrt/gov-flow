@@ -6,6 +6,10 @@
 
 ![screenshot](https://user-images.githubusercontent.com/13832188/35620304-aee07d76-0678-11e8-9f62-987a27f08dfd.png)
 
+## Sketch version
+
+This was made in Sketch version 47.1. Some things might not work properly in previous versions.
+
 ## Things to do
 
 - Update colours and symbolise
