@@ -1,6 +1,8 @@
 # GOV Flow
 
-[Download](https://github.com/charlesrt/gov-flow/blob/master/gov_flow_47.1.sketch?raw=true) free design kit for user flows.
+[Download latest](https://github.com/charlesrt/gov-flow/blob/master/gov_flow_67.1.sketch?raw=true) free design kit for user flows.
+
+[Download for Sketch 47.1](https://github.com/charlesrt/gov-flow/blob/master/gov_flow_47.1.sketch?raw=true)
 
 [Read more about why I made this kit on Medium.](https://medium.com/@charlesrt/designing-flows-with-gov-flow-749da31944ca)
 
@@ -8,7 +10,7 @@
 
 ## Sketch version
 
-This was made in Sketch version 47.1. Some things might not work properly in previous versions.
+This was made in Sketch versions 67.1 and 47.1. Some things might not work properly in previous or inbetween versions.
 
 ## Things to do
 
@@ -16,6 +18,7 @@ This was made in Sketch version 47.1. Some things might not work properly in pre
 - Add contributions I've received with credits
 - Update colours and symbolise
 - Update symbol labels so it's easier to identify overrides
+- Add new components from Design System
 - ~~Finish 'Task list' screen~~ Done
 - ~~Add 'Check your answers' screen~~ Done
 - ~~Add 'Confirmation screen~~ Done
@@ -28,5 +31,3 @@ Released under the creative commons licence — [https://creativecommons.org
 ## Saying thanks ☕️
 
 I design in the open as much as I can and encourage others to do the same. A credit to [me on Twitter](https://twitter.com/charles_rt) and link back to this Github repo are greatly appreciated.
-
-A few people have asked if they can buy me a coffee. Yes, if I ever see you in person a Soy Cappuccino would be amazing. If I never see you and you want to do the same, you can [buy me the digital equivalent to say thanks](https://monzo.me/charlesreynoldstalbot/3?d=Buy%20me%20a%20coffee%20%E2%98%95%EF%B8%8F).
